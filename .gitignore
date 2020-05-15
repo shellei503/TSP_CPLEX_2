@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/Getting Started.pptx
+/opl_integration.py
+/Getting Started r2.pptx
+/output/

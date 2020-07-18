@@ -37,8 +37,7 @@ Multiple Traveling Salesman Problem: https://ozgurakgun.github.io/ModRef2017/fil
 
 ## Instructions
 The TSP models in this repository require CPLEX to solve. If you are unable to install CPLEX, you can see a sample of 
-the code output in the Jupyter notebook view of this repository: 
-https://github.com/shellei503/TSP_CPLEX/blob/master/TSP.ipynb
+the code output in the Jupyter notebook view of this repository or through nbviewer: https://nbviewer.jupyter.org/github/shellei503/TSP_CPLEX_2/blob/master/TSP.ipynb
 
 1. Open TSP.py
 2. Update user defined parameters if needed (or leave default values)

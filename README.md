@@ -8,12 +8,6 @@ same city. The challenge of the problem ius that the traveling salesman wants to
 length of the trip. 
 
 https://www.csd.uoc.gr/~hy583/papers/ch11.pdf
-
-## Sample Problem
-This problem uses the network example from problem 9.3-1 of the Introduction to Operations Research, 7th edition
-textbook by Hillier and Lieberman. 
-
-Textbook pdf: https://notendur.hi.is/kth93/3.20.pdf
   
 ## Mathematical Formulation
 The mathematical formulation is an adaptation of the more general multiple TSP (mTSP) found in the following paper
